@@ -165,6 +165,7 @@ Edison Shek
 - [Anuj Kharbanda] (https://github.com/Anuj2711)
 - [Akshay Solanki](https://github.com/AkshayS96)
 - Tech Performer
+- [Gregory Gubarev] (https://github.com/qwe163)
 - [imbassi][https://github.com/imbassi]
 - [Jakeliny Gracielly] (https://github.com/jakeliny)
 - [Mr_Patcher] (https://github.com/Mr-Patcher)
